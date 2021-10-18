@@ -1,0 +1,14 @@
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDB.csproj.AssemblyReference.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDB.AssemblyInfoInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDB.AssemblyInfo.cs
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDB.csproj.CoreCompileInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\MovieDB.exe
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\MovieDB.deps.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\MovieDB.runtimeconfig.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\MovieDB.runtimeconfig.dev.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\MovieDB.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\bin\Debug\netcoreapp3.1\MovieDB.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDB.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDB.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\MovieDB\MovieDB\obj\Debug\netcoreapp3.1\MovieDB.genruntimeconfig.cache
